@@ -21,7 +21,7 @@ export function Header() {
         <div className="flex items-center gap-1">
           <Button asChild size="icon" variant="ghost">
             <Link
-              href="https://github.com/TheOrcDev/repostars"
+              href="https://github.com/1xcoder-1/repo_rack"
               rel="noopener noreferrer"
               target="_blank"
             >

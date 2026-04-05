@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import type { SearchParams } from "nuqs/server";
-import { Footer } from "@/components/footer";
 import { Hero } from "@/components/hero";
 import { HomeContent } from "@/components/home-content";
 import { searchParamsCache } from "@/lib/search-params";
@@ -71,7 +70,7 @@ export default async function Home({ searchParams }: PageProps) {
         initialReposParam={reposParam}
         initialTheme={theme}
       />
-      <Footer />
+
     </main>
   );
 }
