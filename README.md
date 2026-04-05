@@ -2,13 +2,10 @@
 
 **Compare, Track, and Visualize GitHub Star History with Style.**
 
-[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel&logoColor=white)](https://reporack.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 RepoRack is a modern, high-performance star history tracker for GitHub. Unlike standard trackers, RepoRack focuses on **visual excellence**, offering 15+ beautifully curated themes (from **8-Bit Retro** to **Electric Neon**) and side-by-side comparisons for up to 5 repositories.
 
-![RepoRack Preview](public/og-image.png)
+
 
 ## ✨ Key Features
 
@@ -37,7 +34,7 @@ RepoRack is a modern, high-performance star history tracker for GitHub. Unlike s
 ### Installation
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/TheOrcDev/repostars.git
+    git clone https://github.com/1xcoder-1/repo_rack.git
     cd repostars
     ```
 
@@ -62,8 +59,3 @@ RepoRack is a modern, high-performance star history tracker for GitHub. Unlike s
 -   [How It Works](HOW_IT_WORKS.md) — Technical details, sampling logic, and interpolation.
 -   [Contributing](CONTRIBUTING.md) — Help us make RepoRack better!
 
-## 📄 License
-RepoRack is open-source software licensed under the [MIT License](LICENSE).
-
----
-Created with ❤️ by [TheOrcDev](https://orcdev.com)
